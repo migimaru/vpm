@@ -1,0 +1,15 @@
+アップロード手順
+
+1. このZIPを展開する。
+2. nuko615/vpm の GitHub画面を開く。
+3. Add file → Upload files を選ぶ。
+4. 展開した中身を、フォルダ構造を保ったままアップロードする。
+5. Commit changes を押す。
+6. Settings → Pages → Build and deployment → Source を GitHub Actions にする。
+7. Actions → Build Repo Listing → Run workflow を実行する。
+8. 成功後、以下をブラウザで確認する。
+   https://nuko615.github.io/vpm/
+   https://nuko615.github.io/vpm/index.json
+
+VCCへ追加するURL:
+https://nuko615.github.io/vpm/index.json

@@ -1,0 +1,18 @@
+{
+  "name": "migimaru VPM",
+  "id": "com.migimaru.vpm",
+  "url": "https://nuko615.github.io/vpm/index.json",
+  "author": {
+    "email": "migimaru.github@gmail.com",
+    "name": "migimaru",
+    "url": "https://github.com/nuko615"
+  },
+  "description": "migimaru が公開する VRChat 向け VPM パッケージ一覧です。",
+  "infoLink": {
+    "url": "https://github.com/nuko615/vpm",
+    "text": "View on GitHub"
+  },
+  "githubRepos": [
+    "nuko615/OnOffMenuItemSetupSupporter"
+  ]
+}

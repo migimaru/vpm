@@ -6,7 +6,7 @@ VRChat Creator Companion (VCC) / VPM 用のパッケージリポジトリです�
 
 以下のリンクから、VRChat Creator Companion（VCC）へリポジトリを追加できます。
 
-**[VCCに追加する](https://migimaru.github.io/vpm/add/)**
+### [VCCに追加する](https://migimaru.github.io/vpm/add/)
 
 手動で追加する場合は、以下のRepository URLを使用してください。
 
@@ -16,10 +16,10 @@ https://migimaru.github.io/vpm/index.json
 
 ## Packages
 
-- On/Off Menu Item Setup Supporter for lilycalInventory
-  - https://github.com/migimaru/OnOffMenuItemSetupSupporter
+- [On/Off Menu Item Setup Supporter for lilycalInventory](https://github.com/migimaru/OnOffMenuItemSetupSupporter)
 
-## GitHub Pages
+## Package Listing
 
-このリポジトリは GitHub Actions を使用して `source.json` から
-VPM互換の `index.json` を生成し、GitHub Pagesへ公開します。
+このリポジトリは、VRChat Communityの `template-package-listing` をベースにした構成です。
+
+`source.json` に登録したGitHubリポジトリのRelease情報から、VPM互換の `index.json` をGitHub Actionsで自動生成し、GitHub Pagesへ公開します。

@@ -2,9 +2,17 @@
 
 VRChat Creator Companion (VCC) / VPM 用のパッケージリポジトリです。
 
-## Repository URL
+## VCCへの追加
 
+以下のリンクから、VRChat Creator Companion（VCC）へリポジトリを追加できます。
+
+**[VCCに追加する](https://migimaru.github.io/vpm/add/)**
+
+手動で追加する場合は、以下のRepository URLを使用してください。
+
+```text
 https://migimaru.github.io/vpm/index.json
+```
 
 ## Packages
 

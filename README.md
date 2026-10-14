@@ -18,6 +18,8 @@ https://migimaru.github.io/vpm/index.json
 
 - [On/Off Menu Item Setup Supporter for lilycalInventory](https://github.com/migimaru/OnOffMenuItemSetupSupporter)
 
+- [Clothing Scale](https://github.com/migimaru/ClothingScale)
+
 ## Package Listing
 
 このリポジトリは、VRChat Communityの `template-package-listing` をベースにした構成です。
